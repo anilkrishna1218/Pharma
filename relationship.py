@@ -1,3 +1,4 @@
+# hello this is my code
 def remove_match_char(list1, list2):
 
 	for i in range(len(list1)):
