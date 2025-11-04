@@ -1,4 +1,5 @@
 # hello this is my code
+# Function to remove common characters
 def remove_match_char(list1, list2):
 
 	for i in range(len(list1)):
